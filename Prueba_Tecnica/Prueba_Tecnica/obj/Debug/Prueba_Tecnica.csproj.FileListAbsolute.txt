@@ -1,0 +1,9 @@
+C:\Users\IEUser\Desktop\Prueba Tecnica\Prueba Tecnica\Prueba_Tecnica\Prueba_Tecnica\bin\Debug\Prueba_Tecnica.exe.config
+C:\Users\IEUser\Desktop\Prueba Tecnica\Prueba Tecnica\Prueba_Tecnica\Prueba_Tecnica\bin\Debug\Prueba_Tecnica.exe
+C:\Users\IEUser\Desktop\Prueba Tecnica\Prueba Tecnica\Prueba_Tecnica\Prueba_Tecnica\bin\Debug\Prueba_Tecnica.pdb
+C:\Users\IEUser\Desktop\Prueba Tecnica\Prueba Tecnica\Prueba_Tecnica\Prueba_Tecnica\obj\Debug\Prueba_Tecnica.csprojResolveAssemblyReference.cache
+C:\Users\IEUser\Desktop\Prueba Tecnica\Prueba Tecnica\Prueba_Tecnica\Prueba_Tecnica\obj\Debug\Prueba_Tecnica.Form1.resources
+C:\Users\IEUser\Desktop\Prueba Tecnica\Prueba Tecnica\Prueba_Tecnica\Prueba_Tecnica\obj\Debug\Prueba_Tecnica.Properties.Resources.resources
+C:\Users\IEUser\Desktop\Prueba Tecnica\Prueba Tecnica\Prueba_Tecnica\Prueba_Tecnica\obj\Debug\Prueba_Tecnica.csproj.GenerateResource.Cache
+C:\Users\IEUser\Desktop\Prueba Tecnica\Prueba Tecnica\Prueba_Tecnica\Prueba_Tecnica\obj\Debug\Prueba_Tecnica.exe
+C:\Users\IEUser\Desktop\Prueba Tecnica\Prueba Tecnica\Prueba_Tecnica\Prueba_Tecnica\obj\Debug\Prueba_Tecnica.pdb
