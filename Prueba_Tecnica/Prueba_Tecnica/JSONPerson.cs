@@ -22,13 +22,17 @@ namespace Prueba_Tecnica
         public Name name { get; set; }
         public Location location { get; set; }
         public string email { get; set; }
-        //public string login { get; set; }
+        public Login login { get; set; }
         public string dob { get; set; }
         public string registered { get; set; }
         public string phone { get; set; }
         public string cell { get; set; }
         //public string id { get; set; }
-        public Image picture { get; set; }
+        public Imagen picture { get; set; }
+    }
+
+    public class Login {
+        public string username { get; set; }
     }
 
     public class Info {
@@ -49,9 +53,9 @@ namespace Prueba_Tecnica
         public string street { get; set; }
         public string city { get; set; }
         public string state { get; set; }
-        public int postcode { get; set; }
+        public string postcode { get; set; }
     }
-    public class Image {
+    public class Imagen {
         public string large { get; set; }
         public string medium { get; set; }
         public string thumbnail { get; set; }

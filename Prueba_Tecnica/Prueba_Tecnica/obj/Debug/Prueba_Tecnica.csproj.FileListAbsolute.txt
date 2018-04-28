@@ -7,3 +7,5 @@ C:\Users\IEUser\Desktop\Prueba Tecnica\Prueba Tecnica\Prueba_Tecnica\Prueba_Tecn
 C:\Users\IEUser\Desktop\Prueba Tecnica\Prueba Tecnica\Prueba_Tecnica\Prueba_Tecnica\obj\Debug\Prueba_Tecnica.csproj.GenerateResource.Cache
 C:\Users\IEUser\Desktop\Prueba Tecnica\Prueba Tecnica\Prueba_Tecnica\Prueba_Tecnica\obj\Debug\Prueba_Tecnica.exe
 C:\Users\IEUser\Desktop\Prueba Tecnica\Prueba Tecnica\Prueba_Tecnica\Prueba_Tecnica\obj\Debug\Prueba_Tecnica.pdb
+C:\Users\IEUser\Desktop\Prueba Tecnica\Prueba Tecnica\Prueba_Tecnica\Prueba_Tecnica\bin\Debug\System.Data.SQLite.dll
+C:\Users\IEUser\Desktop\Prueba Tecnica\Prueba Tecnica\Prueba_Tecnica\Prueba_Tecnica\bin\Debug\System.Data.SQLite.pdb
